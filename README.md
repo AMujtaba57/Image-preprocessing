@@ -1,2 +1,2 @@
 # Image Processing
-## resizze image, hair removal
+## resize image, hair removal
